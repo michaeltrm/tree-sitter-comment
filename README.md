@@ -95,6 +95,7 @@ it requires some manual parsing in C.
 - [nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 - [helix](https://github.com/helix-editor/helix)
 - [zed-comment](https://github.com/thedadams/zed-comment)
+- [zed-todo-tree](https://github.com/alexandretrotel/zed-todo-tree)
 - Yours?
 
 ## Other grammars
