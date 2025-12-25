@@ -46,6 +46,10 @@ This will be recognized as a URI
 https://github.com/stsewd/
 ```
 
+## Alternative Syntax
+
+TODO
+
 ## FAQ
 
 ### Can I match a tag that doesn't end in `:`, like `TODO`?
